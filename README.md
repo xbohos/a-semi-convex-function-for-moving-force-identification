@@ -1,5 +1,5 @@
 # a-semi-convex-function-for-moving-force-identification
-
+=====================================================
 =====================================================
 References:
 H.L. Liu, Z.W. Luo and L.Yu*. A semi-convex function for both constant and time-varying moving force identification[J]. 
