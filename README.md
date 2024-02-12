@@ -20,4 +20,4 @@ domain method. [Reference: S. S. Law, T. H. T. Chan and Q. H. Zeng, Moving force
 
 'add_noise.m' the code for adding noise on structural responses.
 
-'main_system_response_2' the code to saving structural responses at some interesting points.
+'main_system_response_2' the code for saving structural responses at some interesting points.
